@@ -1,2 +1,2 @@
 # Projeto-Integrador-
-Participantes: Matheus S. Oliveira, Refael Souza, Vinicius Fernando, Fernando, Caique.
+Participantes: Matheus S. Oliveira, Refael Souza, Vinicius Fernando, Fernando Delgado, Caique.
